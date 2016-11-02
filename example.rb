@@ -13,7 +13,7 @@ class C
   end
 
   add_prefix('hello ')
-  add_prefix('hello ')
+  add_prefix('hello_second  ')
   add_after(' after bye!')
   def c
     'from c'
